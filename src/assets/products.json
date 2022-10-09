@@ -1,0 +1,75 @@
+[
+    {
+        "id": "1",
+        "img": "/assets/card-cover/S852.png",
+        "title": "Apple BYZ S852I",
+        "oldPrice": 2927,
+        "price": 2527,
+        "rate": 4.7,
+        "group": "catalog.groups.wired" 
+    },
+    {
+        "id": "2",
+        "img": "/assets/card-cover/earPods.png",
+        "title": "Apple EarPods",
+        "price": 2327,
+        "rate": 4.7,
+        "group": "catalog.groups.wired"
+    },
+    {
+        "id": "3",
+        "img": "/assets/card-cover/earPods2.png",
+        "title": "Apple EarPods",
+        "price": 2327,
+        "rate": 4.5,
+        "group": "catalog.groups.wired"
+    },
+    {
+        "id": "4",
+        "img": "/assets/card-cover/S852.png",
+        "title": "Apple BYZ S852I",
+        "price": 2927,
+        "rate": 4.7,
+        "group": "catalog.groups.wired"
+    },
+    {
+        "id": "5",
+        "img": "/assets/card-cover/earPods.png",
+        "title": "Apple EarPods",
+        "price": 2327,
+        "rate": 4.7,
+        "group": "catalog.groups.wired"
+    },
+    {
+        "id": "6",
+        "img": "/assets/card-cover/earPods2.png",
+        "title": "Apple EarPods",
+        "price": 2327,
+        "rate": 4.5,
+        "group": "catalog.groups.wired"
+    },
+    {
+        "id": "7",
+        "img": "/assets/card-cover/airPods.png",
+        "title": "Apple AirPods",
+        "price": 9527,
+        "rate": 4.7,
+        "group": "catalog.groups.wireless"
+    },
+    {
+        "id": "8",
+        "img": "/assets/card-cover/GH-04.png",
+        "title": "GERLAX GH-04",
+        "price": 6527,
+        "rate": 4.5,
+        "group": "catalog.groups.wireless"
+    },
+    {
+        "id": "9",
+        "img": "/assets/card-cover/BO4.png",
+        "title": "BOROFONE BO4",
+        "price": 7527,
+        "rate": 4.7,
+        "group": "catalog.groups.wireless"
+    }
+]

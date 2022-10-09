@@ -1,0 +1,58 @@
+{
+    "ru": {
+        "cart": {
+            "title": "Корзина",
+            "empty": "Корзина пуста",
+            "total": {
+                "title": "Итого",
+                "button": "Перейти к оформлению"
+            }
+        },
+        "card": {
+            "buy": "Купить",
+            "addMore": "Добавить еще"
+        },
+        "catalog": {
+            "groups": {
+                "wired": "Проводные",
+                "wireless": "Беспроводные"
+            }
+        },
+        "footer": {
+            "menu": {
+                "favourites": "Избранное",
+                "cart": "Корзина",
+                "contacts": "Контакты"
+            },
+            "termsOfService": "Условия сервиса"
+        }
+    },
+    "en": {
+        "cart": {
+            "title": "Cart",
+            "empty": "Cart is empty",
+            "total": {
+                "title": "Total",
+                "button": "Checkout"
+            }
+        },
+        "card": {
+            "buy": "Buy",
+            "addMore": "Buy more"
+        },
+        "catalog": {
+            "groups": {
+                "wired": "Wired",
+                "wireless": "Wireless"
+            }
+        },
+        "footer": {
+            "menu": {
+                "favourites": "Favourites",
+                "cart": "Cart",
+                "contacts": "Contacts"
+            },
+            "termsOfService": "Terms of service"
+        }
+    }
+}

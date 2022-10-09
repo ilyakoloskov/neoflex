@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap')
+@import './reset'
+@import './_variables'
+
+
+html,body
+    font-family: 'Montserrat', sans-serif
+    background: $color-background
+
+button,
+input
+    font-family: 'Montserrat', sans-serif
+button,a
+    cursor: pointer
+.container
+  margin: 0 auto
+  padding: 0 15px
+  max-width: 100%
+  width: 1110px
+a
+    color: $color-primary
+    &:hover
+        color: $color-accent
+.logo
+  font-weight: 700
+  font-size: $font-large
+  color: $color-primary
+  cursor: pointer
+
+.title
+    color: $color-surface
+    font-weight: 600
+    font-size: $font-large
+    margin-bottom: 30px
